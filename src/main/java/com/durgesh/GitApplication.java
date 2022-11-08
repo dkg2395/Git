@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitApplication {
 	int a=10;
 	int varsha=10;
+	int dk=10;
 
 	public static void main(String[] args) {
 		int b=10;
